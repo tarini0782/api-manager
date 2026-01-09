@@ -16,7 +16,7 @@ To protect end‑user security, vulnerabilities should only be made public **aft
    - A high‑level description of the issue.  
    - Steps to reproduce the vulnerability (screenshots or steps if applicable).  
    - Your own severity assessment and impact.  
-3. **Confidential communication:** If you wish to send secure messages, use the public key associated with the security mailing list.  
+3. **Confidential communication:** If you wish to send secure messages, use the PGP public key for `security@wso2.com` (available via the [WSO2 Security portal](https://security.docs.wso2.com/)).  
 4. **WSO2 response process:**  
    - WSO2 acknowledges the report and investigates.  
    - If the report is valid, patches are created and tested internally.  
